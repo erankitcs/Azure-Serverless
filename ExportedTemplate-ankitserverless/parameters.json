@@ -1,0 +1,51 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "connections_gmail_6_name": {
+            "value": null
+        },
+        "connections_azureblob_name": {
+            "value": null
+        },
+        "sites_ankitserverless_name": {
+            "value": null
+        },
+        "topics_speakerapp_eg_name": {
+            "value": null
+        },
+        "connections_azureeventgrid_name": {
+            "value": null
+        },
+        "workflows_speakerapp_lapp_name": {
+            "value": null
+        },
+        "serverfarms_AustraliaEastPlan_name": {
+            "value": null
+        },
+        "storageAccounts_speakerapp_name": {
+            "value": null
+        },
+        "storageAccounts_ankitserverless_name": {
+            "value": null
+        },
+        "accounts_speakerapp_cv_name": {
+            "value": null
+        },
+        "databaseAccounts_speakerappdb_name": {
+            "value": null
+        },
+        "connections_cognitiveservicescomputervision_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___ankitserverless_name": {
+            "value": null
+        },
+        "components_ankitserverless_externalid": {
+            "value": null
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "speakerapp",
+  "version": "1.0.0",
+  "description": "This is backend functions for Speaker App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "azur",
+    "serverless",
+    "nodejs"
+  ],
+  "author": "Ankit K Singh",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "mongodb": "^3.5.9",
+    "uuid": "^8.2.0"
+  }
+}
