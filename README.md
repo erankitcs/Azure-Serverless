@@ -9,7 +9,7 @@ SpeakerApp provide a plateform track all the speakers along with their skill set
 - Event Grid
 - Logic Apps
 - Congnitive Service (Computer Vision for Caption)
-- CosmosDB
+- Azure CosmosDB
 - Azure Storage
 
 ### Architecture
