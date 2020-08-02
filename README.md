@@ -16,3 +16,8 @@ SpeakerApp provide a plateform track all the speakers along with their skill set
 
 ![Screenshot](SpeakerApp.jpeg)
 
+### How to use 
+
+#### Url: https://speakerapp.z8.web.core.windows.net/
+
+![Screenshot](SpeakerApp.gif)
